@@ -1,0 +1,16 @@
+body{
+    background: #0056b3;
+}
+.login_box{
+    max-width:700px ;
+    float: none;
+    margin: 150px auto;
+}
+.login_left{
+    background: rgba(211, 211, 211, 0.5);
+    padding: 30px;
+}
+.login_right{
+    background: #fff;
+    padding: 30px;
+}
